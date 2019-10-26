@@ -45,7 +45,7 @@
     },
     {
         "ParameterKey":"GlobalOverrideTest",
-        "ParameterValue":"override"
+        "ParameterValue":"success"
     },
     {
         "ParameterKey":"LicenseContentTest",
